@@ -1,7 +1,6 @@
 fastai
 voila
 fastbook
-fastai.vision.widgets
 os
 Path
 torch
